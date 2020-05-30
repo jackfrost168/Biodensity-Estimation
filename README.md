@@ -16,4 +16,4 @@ Results of Mussel Counting
 --------------------------
 ![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/Mussel1.jpg)
 ![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/Mussel2.jpg)
-![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/Mussel2.jpg)
+![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/Mussel3.jpg)
