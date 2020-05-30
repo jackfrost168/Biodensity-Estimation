@@ -8,9 +8,9 @@ Results
 
 Results of Abalone Counting
 ---------------------------
-![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/Abalone1.jpg)
-![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/Abalone2.jpg)
-![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/Abalone3.jpg)
+![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/Abalone1.png)
+![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/Abalone2.png)
+![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/Abalone3.png)
 
 Results of Mussel Counting
 --------------------------
