@@ -1,8 +1,10 @@
 Biodensity Estimation
 =====================
-Network Structure
+Algorithm
 -----------------
-![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/CountingNetworkStructure.jpg)
+![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/pp1.jpg)
+![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/pp2.jpg)
+![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/pp3.jpg)
 Results
 -------
 
