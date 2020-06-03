@@ -2,9 +2,9 @@ Biodensity Estimation
 =====================
 Algorithm
 -----------------
-![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/pp1.jpg)
-![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/pp2.jpg)
-![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/pp3.jpg)
+![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/ppt1.jpg)
+![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/ppt2.jpg)
+![](https://github.com/JackFrost168/Biodensity-Estimation/raw/master/imgs/ppt3.jpg)
 Results
 -------
 
